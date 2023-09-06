@@ -1,0 +1,9 @@
+{
+	"name": "adfsrishti",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "23b7dee0-5414-4c87-a7d1-01e77596220b",
+		"tenantId": "dce87315-8ffa-4a01-ab40-0de5a7214b2f"
+	}
+}
